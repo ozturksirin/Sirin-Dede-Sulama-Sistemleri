@@ -1,3 +1,8 @@
+
+
+
+https://github.com/ozturksirin/Sirin-Dede-Sulama-Sistemleri/assets/92751534/82f99c02-3b73-43a9-a12d-481e05797dba
+
 # Flower Watering System README
 
 This project is developed to control a flower watering system via mobile devices using Arduino and Firebase. With this system, you can water your flowers remotely.
